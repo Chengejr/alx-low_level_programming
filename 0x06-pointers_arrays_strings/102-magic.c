@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/**
+ * print number - Print number followed by new line
+ * @a: The number to be printed
+ * Return: a
+ */
+
 int main(void)
 {
 		int n;
